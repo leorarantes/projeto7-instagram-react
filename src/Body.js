@@ -5,7 +5,6 @@ export default function Body() {
     return (
         <div class="corpo">
             <Storeed />
-
         </div>
     );
 }
