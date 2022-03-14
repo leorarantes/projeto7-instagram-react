@@ -24,8 +24,8 @@ export default function Stories() {
                             </div>
                         </div>
                     );
-                })
-            }
+                }
+            )}
             <div class="setinha">
                 <ion-icon name="chevron-forward-circle"></ion-icon>
             </div>
